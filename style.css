@@ -1,0 +1,33 @@
+.head-heading{
+   align-content: center;
+}
+.element-padding{
+   padding: 10px;
+   padding-top: 20px;
+
+}
+
+
+
+.c{
+    transition: 1s background-color;
+    width: 100px;
+    height: 120px; 
+    border: 1px solid grey;
+    border-radius: 15px;
+
+}
+.container{
+    margin-left: 20%;
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.row{
+    margin-top: 20px;
+    max-width: fit-content;
+}
+footer{
+   vertical-align: bottom;
+}
